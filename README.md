@@ -33,11 +33,6 @@ ecommerce-product-showcase/
 
 ⚙️ Installation & Usage
 
-Clone this repository:
-
-git clone https://github.com/your-username/ecommerce-product-showcase.git
-
-
 Open the index.html file in your browser.
 
 Start exploring the product showcase!
